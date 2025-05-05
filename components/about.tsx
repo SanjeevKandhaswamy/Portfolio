@@ -36,7 +36,7 @@ export default function About() {
             </p>
             <div className="mt-8">
               <Button asChild>
-                <Link href="/Resume.pdf" target="_blank" download="Profile.pdf">
+                <Link href="/Resume1.pdf" target="_blank" download="Profile.pdf">
                   Download Resume
                 </Link>
               </Button>
